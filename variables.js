@@ -19,7 +19,7 @@ console.log(mood)
 
 console.log(waterBottle)
 
-console.log(feetCold)
+console.log(weather)
 
 console.log(luckyNum)
 
