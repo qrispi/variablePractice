@@ -24,3 +24,9 @@ console.log(weather);
 console.log(luckyNum);
 
 console.log(feetCold);
+
+
+var coin = "heads";
+console.log(coin);
+coin = "tails";
+console.log(coin);
