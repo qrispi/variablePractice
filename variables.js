@@ -5,3 +5,7 @@ var weather = "Cloudy and rainy :("
 var age = 27
 var luckyNum = 13
 var hsGrad = 2013
+
+var socks = true
+var shoes = false
+var feetCold = false
